@@ -1,0 +1,21 @@
+{
+  "template_commit": "a248b802aa2dec8def8caaf5175f12fc005f8f5c",
+  "course_project": "vivado_2026_1/08_encoder8to3",
+  "top": "encoder8x3",
+  "part": "xc7s75fgga484-1",
+  "constraints": "constraints/encoder8x3.xdc",
+  "files": {
+    "src/encoder8x3.v": {
+      "course_source": "example/fpga_projects_hdl/LAB1/common/rtl/encoder8x3.v",
+      "sha256": "7b8f07827370b2f5211ba344aa9df2280d53ec582491b84279d6378a6f2f87f0"
+    },
+    "sim/tb_encoder8x3.sv": {
+      "course_source": "example/fpga_projects_hdl/LAB1/common/tb/tb_encoder8x3.sv",
+      "sha256": "792bbb5d2a2966e30ea9bb75dff7057b474daa0d846e2a679197eb898b66da82"
+    },
+    "constraints/encoder8x3.xdc": {
+      "course_source": "example/fpga_projects_hdl/LAB1/common/constraints/encoder8x3.xdc",
+      "sha256": "b074acbc6a6f046fd87335f5494843935f83babc53243c5ddc567b83b17ddf9e"
+    }
+  }
+}

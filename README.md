@@ -1,3 +1,17 @@
+# vivado_2026_1_08_encoder8to3 — 완성 예시
+
+학생용 빈 템플릿과 구분되는 강사용 참고 예시입니다. 실습은 아래 템플릿을 새 폴더에 clone하고 PDF를 보며 직접 작성하세요.
+
+```sh
+git clone https://github.com/Glaysia/fpga-lab-template.git new_project_name
+```
+
+설계 top: `encoder8x3` · TB top: `tb_encoder8x3` · part: `xc7s75fgga484-1`. 핀 제약: `constraints/encoder8x3.xdc`.
+
+이 폴더의 `LAB1.code-workspace`를 열면 공유 폴더 없이 실행됩니다. 원본 파일과 해시는 `evidence/source-provenance.json`에 기록했습니다.
+
+---
+
 # FPGA LAB1 — 직접 작성하는 프로젝트 틀
 
 **프로젝트 하나, workspace 하나입니다.** 모든 실습은 같은 저장소를 새 이름으로 clone하고 PDF를 보며 Verilog·테스트벤치·핀 제약을 직접 작성합니다. 완성 회로와 예시 프로젝트는 들어 있지 않습니다.
